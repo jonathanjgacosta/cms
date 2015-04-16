@@ -1,0 +1,16 @@
+<?xml version='1.0' standalone='yes'?>
+<configdata>
+        <url></url>
+        <nombreempresa>Sistema Manejador de Contenido</nombreempresa>    
+        <database>
+                <host>localhost</host>
+                <username>root</username>
+                <password></password>
+                <dbname>cms</dbname>
+        </database>
+        <modulos>
+                <contenido>0</contenido>
+                <usuarios>1</usuarios>
+                <imagenes>0</imagenes>
+        </modulos>        
+</configdata> 
